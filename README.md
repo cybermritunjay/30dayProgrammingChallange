@@ -10,5 +10,5 @@ How To Take the Challange?
 
 DAY1: 
   Programming: 
-    1. Python Program for compound interest
-    2.	Python program to check whether a number is Prime or not
+    1. Python Program for compound interest(https://leetcode.com/playground/2pTThM5i)
+    2.	Python program to check whether a number is Prime or not(https://leetcode.com/playground/Ni9v8g9t)
